@@ -8,6 +8,9 @@ Do join the official channel, [@MadelineProto](https://t.me/MadelineProto) and t
 
 <a href="https://telegram.org/apps" target="_blank" rel="noopener">Approved by Telegram!</a>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 ## What's this?
 
 This library can be used to easily interact with Telegram **without** the bot API, just like the official apps.
